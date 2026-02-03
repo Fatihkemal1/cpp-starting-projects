@@ -227,4 +227,5 @@ double fahkel(double temp1) {
     double temp2;
     temp2 = (temp1 - 32.0) / 1.8 + 273.15;
     return temp2;
+
 }
